@@ -1,0 +1,100 @@
+html {
+    height:100%;
+}
+
+
+body {
+    background-color: rgba(26, 26, 26, 0.925);
+    background-image: url(images/3d.png.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
+.cantainer {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+header {
+   height:118px;
+   width:1024px;
+   text-align: center;
+}
+
+nav{
+    background-color: rgba(53, 53, 53, 0.616);
+    width:1024px;
+    font-size:20px;
+    text-align: center;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+
+main {
+    text-align: center;
+    padding-top: 80px;
+    margin-top: 40px;
+    margin-bottom:auto;
+
+}
+
+
+footer {
+    background-color:rgba(53, 53, 53, 0.616);
+    text-align: center;
+    padding-top:20px;
+    padding-bottom:20px
+    ;
+}
+
+
+img {
+    width:150px;
+    height:120px;   
+}
+
+
+h1 {
+    font-size:80px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100px;
+}
+
+p {
+   color:white;
+   font-family: Arial, Helvetica, sans-serif;
+   padding-left:240px;
+   padding-right:240px;
+
+}
+
+a {
+    color:white;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-decoration:none ; 
+
+}
+
+nav a {
+    text-decoration:none;
+    font-size:20px;
+    padding-left:10px;
+    padding-right:10px;
+    
+}
+
+footer p {
+    color: white;
+    font-size:12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.video {
+    text-align: center;
+}
